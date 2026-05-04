@@ -1,0 +1,15 @@
+BI Practical 3 Steps
+
+http://services.odata.org/V3/Northwind/Northwind.svc/
+
+Connect to an OData feed:
+
+1) From the Home ribbon tab in the Query Editor, select Get Data.
+
+2) Browse to the OData Feed data source.
+
+3) In the OData Feed dialog box, paste the URL for the Northwind OData feed.
+
+4) Select OK.
+
+5) In the Navigator pane, select the Orders table and Product table, and then select Transform.
